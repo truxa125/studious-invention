@@ -3,7 +3,7 @@
 ![Alt text](https://raw.githubusercontent.com/truxa125/studious-invention/refs/heads/main/image/dfkjjghfghfuhgufhughfuhgufhgufugfugufhgufhgufhghfughufgufghfughfhguhfughufugfhufhughufghufhgufhguhfugfhughfughfughuf.png "a title")
 
 
-[RE:LABS - muj druhy projekt](https://re-labs.eu)
+[RE:LABS - můj druhý projekt](https://re-labs.eu)
 
 [Oficiální stránka hry](https://store.steampowered.com/app/3476880/Brno_Transit/)
 
