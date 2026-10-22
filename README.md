@@ -25,7 +25,7 @@ Etiam vehicula cursus velit, vulputate volutpat lacus aliquet sit amet. Nullam c
 - odrazka3
 
 
-**tucny text**   *kurziva*
+**Toto je tučný text**  a *toto je kurziva*
 
 
 1. cislovany seznam
