@@ -5,7 +5,7 @@
 ![Modli se!](https://raw.githubusercontent.com/truxa125/studious-invention/refs/heads/main/image/obrazek2.webp "a title")
 
 
-[RE:LABS - můj druhý projekt](https://re-labs.eu)
+[RE:LABS - můj druhý projekt](https://re-labs-group.github.io)
 
 [Oficiální stránka hry](https://store.steampowered.com/app/3476880/Brno_Transit/)
 
