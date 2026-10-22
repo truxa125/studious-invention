@@ -1,7 +1,11 @@
 # Něco
 
 ![Alt text](https://raw.githubusercontent.com/truxa125/studious-invention/refs/heads/main/image/dfkjjghfghfuhgufhughfuhgufhgufugfugufhgufhgufhghfughufgufghfughfhguhfughufugfhufhughufghufhgufhguhfugfhughfughfughuf.png "a title")
+
+
 [RE:LABS - muj druhy projekt](https://re-labs.eu)
+
+[Oficiální stránka hry](https://store.steampowered.com/app/3476880/Brno_Transit/)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod, quam eget bibendum iaculis, sem tortor eleifend sem, eget malesuada urna ipsum cursus felis. Sed dignissim semper quam, eget dignissim turpis fermentum in. Cras posuere molestie dignissim. Nam molestie posuere nunc vel maximus. Vestibulum a pretium enim. Nulla non hendrerit metus, ultricies accumsan velit. Aenean ultricies purus vel risus faucibus, nec sollicitudin odio ultrices. Fusce dictum interdum ipsum, in rutrum ante venenatis ac. Cras rutrum accumsan nisi eget elementum. Integer eleifend varius erat a cursus. Fusce tempus magna quis turpis mollis finibus. In hac habitasse platea dictumst. Suspendisse pulvinar nunc fringilla finibus pulvinar. Morbi efficitur sodales diam. Nunc condimentum risus sit amet lorem scelerisque rutrum. Aenean dapibus facilisis quam in aliquet.
 
